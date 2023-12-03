@@ -1,0 +1,10 @@
+{
+    "url": "https://hakstd.jnu.ac.kr/web/Suup/TimeTable/Suup053C.aspx",
+    "implicit_wait_time": 15,
+    "selectors": {
+        "term_click": "#ContentPlaceHolder_ContentPlaceHolderSub_ddlTerm",
+        "course_name_click": "#ContentPlaceHolder_ContentPlaceHolderSub_txtSubj",
+        "doctor_name": "#ContentPlaceHolder_ContentPlaceHolderSub_txtEmp_Name",
+        "search_btn": "#ContentPlaceHolder_ContentPlaceHolderSub_ibtnSearch"
+    }
+}
